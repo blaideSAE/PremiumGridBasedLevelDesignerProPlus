@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Directories
+SFML-2.4.2/
